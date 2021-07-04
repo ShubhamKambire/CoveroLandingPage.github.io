@@ -1,0 +1,123 @@
+.bg-red{
+    background-color: red;
+    
+
+}
+
+.bg-red a{
+    padding: 0 10px;
+    text-decoration: none;
+    color: aqua;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bg-red a:hover{
+    color: black;
+
+    
+}
+
+
+
+
+.nav-link{
+    color: black;
+    font-weight: 500;
+}
+
+
+.shadow{
+    border-bottom: 2px black ;
+}
+
+
+.min{
+    max-height: 4rem;
+    max-width: 4rem;
+ 
+
+}
+
+ul.social{
+
+    list-style-type: none;
+}
+
+
+ul.social li{
+    padding: .8rem 0;
+}
+
+
+btn-primary{
+    border-radius: 0!important;
+}
+
+.lead {
+    font-size: medium;
+    font-weight: 400;
+}
+table.details {
+    text-align: center;
+}
+table.details th{
+    font-size: small;
+    font-weight: lighter;
+    padding: 2rem 1rem 0 1rem;
+    
+}
+
+table.details td{
+    font-size: large;
+    text-decoration-line: underline ;
+
+    
+}
+
+.card{
+
+    border-radius: 1rem!important;
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, .2);
+    
+    
+}
+
+.card-img-top{
+    border-radius: 0.9rem 0 0 0!important;
+
+}
+
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active{
+    transition: transform 1.2s ease;
+}
+
+.carousel-control-prev .svg-inline--fa{
+    color: red;
+}
+.carousel-control-next .svg-inline--fa{
+    color: red;
+}
+
+footer{
+    background-color: black;
+    margin-top: 5rem;
+    
+}
+
+footer ul{
+    list-style-type: none;
+    padding-left: 0;
+    
+}
+
+footer li{
+    text-align: left;
+    font-size: small;
+    font-weight: 600;
+    padding: 0;
+}
+
+footer table td{
+    padding: 1rem;
+}
